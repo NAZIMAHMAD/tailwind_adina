@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.btn-primary {
+    @apply w-[10rem] h-[3rem] font-bold capitalize bg-[#b18b5e] text-white flex items-center justify-center;
+  }
